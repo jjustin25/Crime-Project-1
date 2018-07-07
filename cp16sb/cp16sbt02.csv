@@ -1,0 +1,65 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,,,,
+Filename: cp16sbt02.csv,,,,,,,,,,,,,,,,,,,,
+"Table 2. Prisoners under sentence of death, by region, jurisdiction, and race, 2015 and 2016",,,,,,,,,,,,,,,,,,,,
+"Report title: Capital Punishment, 2016 - Statistical Brief NCJ 251430",,,,,,,,,,,,,,,,,,,,
+"Data source: National Prisoner Statistics program (NPS-8), 2016",,,,,,,,,,,,,,,,,,,,
+"Authors: Elizabeth Davis and Tracy L. Snell, BJS Statisticians",,,,,,,,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or (202) 307-0765,,,,,,,,,,,,,,,,,,,,
+Date of version: 4/30/2018,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+"Table 2. Prisoners under sentence of death, by region, jurisdiction, and race, 2015 and 2016",,,,,,,,,,,,,,,,,,,,
+,,"Prisoners under sentence of death, 12/31/15",,,,"Received under sentence of death, 2016  ",,,,"Removed from death row (excluding executions), 2016 ",,,,"Executed, 2016  ",,,,"Prisoners under sentence of death, 12/31/16",,
+Region and jurisdiction,,Total/a,"White/b, c",Black/b,,Total/a,White/b,Black/b,,Total/a,White/b,Black/b,,Total/a,White/b,Black/b,,Total/a,White/b,Black/b
+U.S. total,,"2,872","1,606","1,202",,32,8,20,,70,36,31,,20,18,2,,"2,814","1,560","1,189"
+,Federal/d,59,30,28,,0,0,0,,1,0,1,,0,0,0,,58,30,27
+,State,"2,813","1,576","1,174",,32,8,20,,69,36,30,,20,18,2,,"2,756","1,530","1,162"
+Northeast,,193,87,104,,1,0,0,,19,8,11,,0,0,0,,175,79,93
+,Connecticut/e,11,5,6,,0,0,0,,11,5,6,,0,0,0,,0,0,0
+,New Hampshire,1,0,1,,0,0,0,,0,0,0,,0,0,0,,1,0,1
+,New York,0,0,0,,0,0,0,,0,0,0,,0,0,0,,0,0,0
+,Pennsylvania,181,82,97,,1,0,0,,8,3,5,,0,0,0,,174,79,92
+Midwest,,200,109,90,,5,2,3,,3,2,1,,1,1,0,,201,108,92
+,Indiana,13,10,3,,0,0,0,,0,0,0,,0,0,0,,13,10,3
+,Kansas,10,7,3,,1,1,0,,1,1,0,,0,0,0,,10,7,3
+,Missouri,26,18,8,,0,0,0,,0,0,0,,1,1,0,,25,17,8
+,Nebraska/c,10,8,2,,0,0,0,,0,0,0,,0,0,0,,10,8,2
+,Ohio,138,63,74,,4,1,3,,2,1,1,,0,0,0,,140,63,76
+,South Dakota,3,3,0,,0,0,0,,0,0,0,,0,0,0,,3,3,0
+South,,"1,413",742,651,,17,4,12,,41,21,17,,19,17,2,,"1,370",708,644
+,Alabama,187,92,94,,3,1,2,,5,3,2,,2,2,0,,183,88,94
+,Arkansas/f,35,16,19,,1,1,0,,1,1,0,,0,0,0,,35,16,19
+,Delaware,14,6,8,,0,0,0,,1,1,0,,0,0,0,,13,5,8
+,Florida/g,389,235,153,,3,1,2,,9,3,6,,1,1,0,,382,232,149
+,Georgia,68,35,33,,0,0,0,,1,1,0,,9,7,2,,58,27,31
+,Kentucky,32,27,5,,0,0,0,,0,0,0,,0,0,0,,32,27,5
+,Louisiana,82,26,55,,0,0,0,,9,2,6,,0,0,0,,73,24,49
+,Mississippi,47,20,26,,0,0,0,,0,0,0,,0,0,0,,47,20,26
+,North Carolina,147,64,76,,5,0,4,,2,1,0,,0,0,0,,150,63,80
+,Oklahoma,47,23,20,,1,0,1,,2,1,0,,0,0,0,,46,22,21
+,South Carolina,40,17,23,,0,0,0,,3,1,2,,0,0,0,,37,16,21
+,Tennessee/g,67,36,30,,0,0,0,,4,4,0,,0,0,0,,63,32,30
+,Texash,251,141,106,,4,1,3,,4,3,1,,7,7,0,,244,132,108
+,Virginia,7,4,3,,0,0,0,,0,0,0,,0,0,0,,7,4,3
+West,,"1,007",638,329,,9,2,5,,6,5,1,,0,0,0,,"1,010",635,333
+,Arizona,119,96,18,,1,0,0,,2,2,0,,0,0,0,,118,94,18
+,"California/c, f",739,439,269,,7,2,4,,4,3,1,,0,0,0,,742,438,272
+,Colorado,3,0,3,,0,0,0,,0,0,0,,0,0,0,,3,0,3
+,Idaho,9,9,0,,0,0,0,,0,0,0,,0,0,0,,9,9,0
+,Montana,2,2,0,,0,0,0,,0,0,0,,0,0,0,,2,2,0
+,Nevada,82,49,31,,1,0,1,,0,0,0,,0,0,0,,83,49,32
+,New Mexico,2,2,0,,0,0,0,,0,0,0,,0,0,0,,2,2,0
+,Oregon/c,33,29,3,,0,0,0,,0,0,0,,0,0,0,,33,29,3
+,Utah,9,7,1,,0,0,0,,0,0,0,,0,0,0,,9,7,1
+,Washington,9,5,4,,0,0,0,,0,0,0,,0,0,0,,9,5,4
+,Wyoming,0,0,0,,0,0,0,,0,0,0,,0,0,0,,0,0,0
+"Note: Some figures shown for yearend 2015 are revised from those reported in Capital Punishment, 2014-2015 – Statistical Brief ",,,,,,,,,,,,,,,,,,,,
+"(NCJ 250638, BJS web, May 2017). The revised figures include 5 inmates who were either reported late to the National Prisoner Statistics program or were not in custody of State correctional authorities on December 31, 2015 (1 each in Ohio, Mississippi, Oklahoma, California and Nevada), and exclude 14 inmates who were relieved of a death sentence before December 31, 2015 (3 each in Georgia and Texas; 2 in California; and 1 each in Missouri, MIssissippi, Oklahoma, South Carolina, Tennessee, and Nevada).",,,,,,,,,,,,,,,,,,,,
+"a/Includes American Indians and Alaska Natives; Asians, Native Hawaiians, and Other Pacific Islanders; and persons of Hispanic/Latino origin for whom no other race was identified.",,,,,,,,,,,,,,,,,,,,
+b/Counts of white and black inmates include persons of Hispanic/Latino origin.,,,,,,,,,,,,,,,,,,,,
+c/The race reported for 5 inmates has been revised from Hispanic to white (2 each in Nebraska and California and 1 in Oregon). The Hispanic/Latino origin for these inmates remains unchanged.,,,,,,,,,,,,,,,,,,,,
+d/Excludes persons held under Armed Forces jurisdiction with a military death sentence for murder. ,,,,,,,,,,,,,,,,,,,,
+"e/The Connecticut Supreme Court upheld a previous ruling that extended the repeal of the capital statute to include 11 males under a previously imposed death sentence. These prisoners will be resentenced to life in prison without the possibility of parole (State v. Peeler, 321 CONN. 375 (2016)).",,,,,,,,,,,,,,,,,,,,
+f/One inmate under sentence of death in Arkansas was erroneously reported as being under sentence of death in California in the 2014–2015 report.,,,,,,,,,,,,,,,,,,,,
+g/One inmate who was previously in the custody of Florida is now being reported in Tennessee where he is under a separate sentence of death.,,,,,,,,,,,,,,,,,,,,
+h/Two of the white prisoners executed were of Hispanic origin.,,,,,,,,,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics program (NPS-8), 2016.",,,,,,,,,,,,,,,,,,,,
